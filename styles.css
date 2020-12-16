@@ -1,0 +1,33 @@
+body {
+    background-color: #fff0e5;
+}
+
+header h1 {
+    background-color: lightgray;
+
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+    margin: 1em 5em 1em 5em;
+
+}
+
+h1 {
+    display: block;
+    padding: 5px;
+    font-size: 40px;
+    text-align: center;
+    margin: 1em 5em 1em 5em;
+}
+
+table, th, td {
+    border: 2px solid gray;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.code {
+    font-family: monospace;
+    background-color: skyblue;
+}
